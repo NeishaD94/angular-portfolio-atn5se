@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+  font-style: italic;
+  color: black;
+}
+
+.pic {
+  width: 500px;
+  height: 350px;
+}
+
+#about_me{
+  font-style: italic;
+}

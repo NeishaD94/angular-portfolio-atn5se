@@ -1,0 +1,18 @@
+
+footer {
+background-color: pink;
+}
+
+#contact, div {
+  color: cadetblue;
+}
+
+.copy {
+text-align: center;
+
+}
+
+.fa {
+  color:cadetblue;
+  background-color: white;
+}
